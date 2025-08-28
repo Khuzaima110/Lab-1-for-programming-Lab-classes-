@@ -19,4 +19,6 @@ list.
 
 Part V Q22: What's happening is that when I call the getName, a small window pops up of the name I had given it.
 
-Q24:
+Q24: It tells me how many students are registered
+
+Q
