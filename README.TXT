@@ -21,4 +21,12 @@ Part V Q22: What's happening is that when I call the getName, a small window pop
 
 Q24: It tells me how many students are registered
 
-Q
+Q31:
+ 0: int
+“hello”: string
+101: int
+-1: int
+true: Boolean
+“33”: string
+3.1415: Double
+
