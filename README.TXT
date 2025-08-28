@@ -30,3 +30,4 @@ true: Boolean
 “33”: string
 3.1415: Double
 
+Q32: 
