@@ -36,3 +36,6 @@ Q33: public void send(String message)
 
 Q34: public int average(int number1, int number2)
 
+Q35: The book is an object, the class is book
+
+Q36: No it cannot
