@@ -30,4 +30,9 @@ true: Boolean
 “33”: string
 3.1415: Double
 
-Q32: 
+Q32: private string Circlename
+
+Q33: public void send(String message)
+
+Q34: public int average(int number1, int number2)
+
